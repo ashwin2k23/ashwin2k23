@@ -2,7 +2,7 @@
 - 👀 I’m interested in learing web programming,and coding
 - 🌱 I’m currently getting started
 - 💞️ I’m looking to collaborate on not yet
-- 📫 How to reach me discord :
+- 📫 How to reach me discord :ashwin_6969
 
 <!---
 ashwin2k23/ashwin2k23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
