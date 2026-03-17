@@ -1,9 +1,25 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="350"/>
-</p>
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<table>
+<tr>
+<td width="60%">
 
+# 🪝 About Me:
+
+🔭 I’m currently working on  
+👯 I’m looking to collaborate on  
+🤝 I’m looking for help with  
+🌱 I’m currently learning  
+💬 Ask me about  
+⚡ Fun fact  
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin._.h) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Low_Ad_9899) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AshwinHalemane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinhalemane413@gmail.com) 
