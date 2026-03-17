@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="350"/>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
