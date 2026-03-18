@@ -4,12 +4,63 @@
 
 # 🪝 About Me:
 
-🔭 I’m currently working on  
-👯 I’m looking to collaborate on  
-🤝 I’m looking for help with  
-🌱 I’m currently learning  
-💬 Ask me about  
-⚡ Fun fact  
+👋 Hi, I'm Ashwin
+
+🎓 I'm a 3rd-year Computer Science Engineering student
+💻 Passionate about Front-End Development and UI/UX Design
+🎨 I enjoy creating clean, user-friendly, and visually appealing interfaces
+
+---
+
+🚀 What I Do
+
+- 💡 Design intuitive user interfaces using modern UI/UX principles
+- 🌐 Build responsive and interactive web applications
+- ⚡ Practice vibe coding to quickly turn ideas into real projects
+- 🛠️ Work on real-world projects in front-end and UI design
+
+---
+
+🧠 Skills & Tools
+
+- Languages: HTML, CSS, JavaScript
+- Frameworks/Libraries: React (learning), Tailwind CSS
+- Design Tools: Figma, Adobe XD
+- Other: Responsive Design, UI Prototyping, Basic UX Research
+
+---
+
+📂 Projects
+
+I actively work on projects related to:
+
+- Front-End Development
+- UI/UX Designing
+- Real-world problem-solving applications
+
+Some of my key interests include:
+
+- Smart Web Applications
+- User-Centered Design Systems
+- Clean and Modern UI Interfaces
+
+---
+
+🌱 Currently Learning
+
+- Advanced Front-End Development
+- UI/UX Design Systems
+- Improving design-to-code workflow
+
+---
+
+🎯 Goal
+
+To become a skilled Front-End Developer and UI/UX Designer, building impactful and user-centric digital experiences.
+
+---
+
+⭐ Always open to learning, collaboration, and new opportunities!
 
 </td>
 
