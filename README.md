@@ -66,7 +66,7 @@ To become a skilled Front-End Developer and UI/UX Designer, building impactful a
 
 <td width="40%" align="right">
 
-<img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="350"/>
+<img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="450"/>
 
 </td>
 </tr>
