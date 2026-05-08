@@ -12,6 +12,10 @@ Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Building+AI+Powered+Apps;Creating+Modern+Web+Experiences;Open+to+Internships" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFwZ3Y0c2Y1cHJxY2Q1cWQ2aWZ0bHB4d2Y4aXBlb2Z4bTF6d3Q0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l36kU80xPf0ojG0Erg/giphy.gif" width="300" />
+</p>
+
 ---
 
 # 🚀 About Me
