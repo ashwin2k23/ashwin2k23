@@ -13,7 +13,7 @@ Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGFwZ3Y0c2Y1cHJxY2Q1cWQ2aWZ0bHB4d2Y4aXBlb2Z4bTF6d3Q0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l36kU80xPf0ojG0Erg/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV1OXc2NGt5NjU1OTB5emV5NWx4czA5MWxmNmdvY3BobTU2NjdwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8zYunr3Hg8XPq/giphy.gif" width="300" />
 </p>
 
 ---
