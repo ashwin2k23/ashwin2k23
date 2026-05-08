@@ -9,7 +9,7 @@ Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Building+AI+Powered+Apps;Creating+Modern+Web+Experiences;Open+to+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Building+AI+Powered+Apps;Creating+Modern+Web+Experiences;Open+to+Internships" />
 </p>
 
 ---
@@ -35,15 +35,11 @@ Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwin2k23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwin2k23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin2k23&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,13 +99,17 @@ Modern Formula 1 dashboard inspired by real-time race engineering systems and te
 - JavaScript
 - Vercel
 
+### 🌐 Live Demo
+
+https://f1-pitwall-six.vercel.app/
+
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ashwin-halemane-642a452a4/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
