@@ -1,94 +1,125 @@
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img src="./banner.png" />
+</p>
 
-# 🪝 About Me:
+<h1 align="center">Hi 👋, I'm Ashwin</h1>
 
-👋 Hi, I'm Ashwin
+<h3 align="center">
+Frontend Developer • React JS • CS Undergraduate • AI Enthusiast
+</h3>
 
-🎓 I'm a 3rd-year Computer Science Engineering student
-💻 Passionate about Front-End Development and UI/UX Design
-🎨 I enjoy creating clean, user-friendly, and visually appealing interfaces
-
----
-
-🚀 What I Do
-
-- 💡 Design intuitive user interfaces using modern UI/UX principles
-- 🌐 Build responsive and interactive web applications
-- ⚡ Practice vibe coding to quickly turn ideas into real projects
-- 🛠️ Work on real-world projects in front-end and UI design
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Developer;Frontend+Engineer;AI+Enthusiast;Building+Cool+Projects;Open+to+Internships" />
+</p>
 
 ---
 
-🧠 Skills & Tools
+# 🚀 About Me
 
-- Languages: HTML, CSS, JavaScript
-- Frameworks/Libraries: React (learning), Tailwind CSS
-- Design Tools: Figma, Adobe XD
-- Other: Responsive Design, UI Prototyping, Basic UX Research
-
----
-
-📂 Projects
-
-I actively work on projects related to:
-
-- Front-End Development
-- UI/UX Designing
-- Real-world problem-solving applications
-
-Some of my key interests include:
-
-- Smart Web Applications
-- User-Centered Design Systems
-- Clean and Modern UI Interfaces
+- 🎓 Computer Science Student
+- 💻 Frontend Developer
+- 🤖 Interested in AI + Web Apps
+- 🌱 Currently learning Full Stack Development
+- ⚡ Building impactful projects
 
 ---
 
-🌱 Currently Learning
+# 🛠️ Tech Stack
 
-- Advanced Front-End Development
-- UI/UX Design Systems
-- Improving design-to-code workflow
-
----
-
-🎯 Goal
-
-To become a skilled Front-End Developer and UI/UX Designer, building impactful and user-centric digital experiences.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,firebase,python,git,github,vscode,figma" />
+</p>
 
 ---
 
-⭐ Always open to learning, collaboration, and new opportunities!
+# 📊 GitHub Stats
 
-</td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwin2k23&show_icons=true&theme=tokyonight" />
+</p>
 
-<td width="40%" align="right">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin2k23&theme=tokyonight" />
+</p>
 
-<img src="https://media0.giphy.com/media/clspXK4twFiGjTwxOZ/giphy.gif" width="450"/>
-
-</td>
-</tr>
-</table>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin._.h) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Low_Ad_9899) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AshwinHalemane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinhalemane413@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashwin2k23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashwin2k23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwin2k23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashwin2k23&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&layout=compact&theme=tokyonight" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashwin2k23&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwin2k23&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🍎 Calorix
+
+AI-powered calorie tracking and health assistant.
+
+🔗 https://calorix-taupe.vercel.app/
+
+### Features
+- Smart calorie tracking
+- AI-powered food analysis
+- Personalized dashboard
+- Modern responsive UI
+- Gemini AI integration
+
+---
+
+## 🤖 Multilingual FAQ Chatbot
+
+AI chatbot supporting English + Hindi for businesses.
+
+### Features
+- Context-aware replies
+- Multilingual support
+- Fast response system
+- Business automation
+- Modern chatbot interface
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashwin2k23/ashwin2k23/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwin2k23&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+⭐️ From Ashwin | Building cool stuff with React & AI
+</p>
