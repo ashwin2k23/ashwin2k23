@@ -5,29 +5,29 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 
 <h3 align="center">
-Frontend Developer • React JS • CS Undergraduate • AI Enthusiast
+Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Developer;Frontend+Engineer;AI+Enthusiast;Building+Cool+Projects;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+JS+Enthusiast;Building+AI+Powered+Apps;Creating+Modern+Web+Experiences;Open+to+Internships" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Frontend Developer
-- 🤖 Interested in AI + Web Apps
-- 🌱 Currently learning Full Stack Development
-- ⚡ Building impactful projects
+- 🎓 Computer Science Undergraduate
+- 💻 Frontend Developer focused on modern UI/UX
+- 🤖 Interested in AI-powered applications
+- ⚡ Building impactful real-world projects
+- 🌱 Currently learning Full Stack Development & AI Integration
 
 ---
 
 # 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,firebase,python,git,github,vscode,figma" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,firebase,python,git,github,vscode,figma,vercel" />
 </p>
 
 ---
@@ -35,15 +35,15 @@ Frontend Developer • React JS • CS Undergraduate • AI Enthusiast
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwin2k23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwin2k23&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin2k23&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwin2k23&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2k23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ Frontend Developer • React JS • CS Undergraduate • AI Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwin2k23&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwin2k23&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -60,42 +60,61 @@ Frontend Developer • React JS • CS Undergraduate • AI Enthusiast
 
 ## 🍎 Calorix
 
-AI-powered calorie tracking and health assistant.
+AI-powered calorie tracking and health assistant designed to help users monitor nutrition with intelligent food analysis and modern UI.
 
-🔗 https://calorix-taupe.vercel.app/
+### 🚀 Features
 
-### Features
 - Smart calorie tracking
 - AI-powered food analysis
-- Personalized dashboard
-- Modern responsive UI
+- Personalized health dashboard
 - Gemini AI integration
+- Responsive modern UI
+- Real-time user interaction
+
+### 🛠️ Tech Stack
+
+- React JS
+- Tailwind CSS
+- Gemini API
+- Vercel
+
+### 🌐 Live Demo
+
+https://calorix-taupe.vercel.app/
 
 ---
 
-## 🤖 Multilingual FAQ Chatbot
+## 🏎️ F1 Pitwall
 
-AI chatbot supporting English + Hindi for businesses.
+Modern Formula 1 dashboard inspired by real-time race engineering systems and telemetry interfaces.
 
-### Features
-- Context-aware replies
-- Multilingual support
-- Fast response system
-- Business automation
-- Modern chatbot interface
+### 🚀 Features
+
+- F1-inspired UI design
+- Interactive dashboard experience
+- Responsive layouts
+- Racing telemetry aesthetics
+- Modern frontend animations
+
+### 🛠️ Tech Stack
+
+- React JS
+- Tailwind CSS
+- JavaScript
+- Vercel
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+<a href="https://github.com/ashwin2k23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -112,14 +131,16 @@ AI chatbot supporting English + Hindi for businesses.
 
 # ✨ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwin2k23&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ashwin2k23&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-⭐️ From Ashwin | Building cool stuff with React & AI
+⭐ Building modern frontend experiences with React & AI
 </p>
