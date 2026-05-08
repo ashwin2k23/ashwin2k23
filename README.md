@@ -27,7 +27,7 @@ Frontend Developer • React JS • AI Enthusiast • CS Undergraduate
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,mongodb,firebase,python,git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,mongodb,firebase,python,git,github,vscode,figma,vercel" />
 </p>
 
 ---
