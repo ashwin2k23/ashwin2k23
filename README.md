@@ -12,6 +12,15 @@ Frontend Developer • React.js • AI Enthusiast • Computer Science Undergrad
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=00F7FF&lines=Frontend+Developer;React.js+Developer;Building+AI-Powered+Applications;Crafting+Modern+UI%2FUX;Open+to+Internships" />
 </p>
 
+<!-- 🕷️ Spider Animation -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV1OXc2NGt5NjU1OTB5emV5NWx4czA5MWxmNmdvY3BobTU2NjdwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8zYunr3Hg8XPq/giphy.gif"
+    width="320"
+    alt="Spider Animation"
+  />
+</p>
+
 <p align="center">
   <a href="https://github.com/ashwin2k23">
     <img src="https://img.shields.io/github/followers/ashwin2k23?style=for-the-badge&logo=github"/>
@@ -47,9 +56,7 @@ Currently Learning:
 # 💻 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,python,git,github,vscode,figma,vercel,docker&perline=9"/>
-
 </p>
 
 ---
@@ -57,15 +64,11 @@ Currently Learning:
 # 📈 GitHub Activity
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=ashwin2k23&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwin2k23&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -161,9 +164,7 @@ https://f1-pitwall-six.vercel.app/
 # 💭 Developer Quote
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
